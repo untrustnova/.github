@@ -1,6 +1,6 @@
 ## Hey, Untrustnova in here👋!
 
-<img src="./../icon.webp" width="70" align="right">
+<img src="./../icon.webp" width="90" align="right">
 
 A small independent community of developers, designers, and engineers come together to build meaningful digital products.  
 
