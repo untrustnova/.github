@@ -1,36 +1,46 @@
-## Hey, Untrustnova in here 👋
+## Hey, Untrustnova is here!! 👋
 
 <img src="./../icon.webp" width="95" align="right" alt="Untrustnova icon">
 
 **An independent collective of developers, designers, and engineers** building human-centered digital products.  
-What started as a side project evolved into a creative technology studio focused on **reliability**, **clarity**, and a healthy dose of **curiosity**.
+What started as a side project has grown into a creative technology studio focused on **reliability**, **clarity**, and the right amount of **curiosity**.
 
 We work where **design × engineering × curiosity** meet—turning small ideas into tools that empower people and communities.  
 We don’t chase trends or perfection. We chase **learning**—the kind you get when you break something, fix it, and accidentally make it better.
 
-> **Studio tagline**: _Where unlikely ideas earn trust—and sometimes explode into masterpieces._  
-> **Original motto (we keep it close):** “**Where Ideas What We Didn't Trust To Success, And Then Suddenly Explode Into Masterpieces.**”
-
----
-### The Pillars of Founders
-- **Witthayanuraks** : Head of Untrustnova (PM + HR), Frontend Dev, DevOps.
-- **Ernestoyoofi** : Fullstack Dev (JavaScript + Golang), Networking (Mikrotik), SysAdmin.
-- **AndraZero121** : Backend Dev (PHP + JavaScript + Golang), DevOps.
----
-
-### What we do?
-- **Products** — small, dependable tools with delightful UX.  
-- **Playground** — weird experiments, prototypes, and “what ifs.”  
-- **Collaborations** — we partner when vision and timing align.  
+> **Studio tagline**: _Where unlikely ideas earn trust—then sometimes explode into masterpieces._  
+> **Original motto (we keep it close):** **“Where Ideas What We Didn't Trust To Success, And Then Suddenly Explode Into Masterpieces.”**
 
 ---
 
-### How we build (playful, but intentional)
-- **Ship small, iterate fast** — momentum > perfection.
-- **Simple > clever** — clarity, maintainability, boring-but-reliable choices.
-- **Human first** — accessible, inclusive, genuinely useful.
-- **Measure & learn** — logs, metrics, feedback loops.
-- **Security by default** — sane defaults, least privilege, no drama (kinda fake).
+### 🔭 Quick Snapshot
+- We build **small, dependable products** with delightful UX.
+- We keep a **Playground** for weird experiments that sometimes graduate to real tools.
+- We collaborate when **vision and timing** align.
+- We prioritize **simplicity, maintainability, and measured outcomes**.
+
+---
+
+### 👥 Founding Team (The Pillars)
+- **Witthayanuraks** — Head of Untrustnova (PM + HR), Frontend Dev, DevOps.  
+- **Ernestoyoofi** — Fullstack Dev (JavaScript + Golang), Networking (MikroTik), SysAdmin.  
+- **AndraZero121** — Backend Dev (PHP + JavaScript + Golang), DevOps.
+
+---
+
+### 🧩 What we do
+- **Products** — small tools that solve real problems with delightful UX.  
+- **Playground** — prototypes, odd ideas, “what ifs” (some become real).  
+- **Collaborations** — we team up when the challenge matches our curiosity.
+
+---
+
+### 🔧 How we build (playful, but intentional)
+- **Ship small, iterate fast** — momentum > perfection.  
+- **Simple > clever** — clarity, maintainability, boring-but-reliable choices.  
+- **Human first** — accessible, inclusive, genuinely useful.  
+- **Measure & learn** — logs, metrics, feedback loops.  
+- **Security by default** — sane defaults, least privilege, no drama *(we try 😅)*.
 
 ---
 
@@ -88,14 +98,14 @@ We don’t chase trends or perfection. We chase **learning**—the kind you get 
 
 ---
 
-### Ways of working 💪🏻
-- **Scoping**: clear problem, measurable outcomes, time-boxed milestones.  
-- **Build**: trunk-based, code review, CI checks, frequent releases.  
-- **Quality**: tests where it counts, observability, rollback ready.  
-- **Handoff**: docs, playbook, and calm operations.  
+### 🗂️ Ways of working
+- **Scoping** — clear problem, measurable outcomes, time-boxed milestones.  
+- **Build** — trunk-based, code review, CI checks, frequent releases.  
+- **Quality** — tests where it counts, observability, rollback-ready.  
+- **Handoff** — docs, playbook, and calm operations.  
 
 ---
 
-### Say hello 🙋🏻‍♂️
+### 🙋 Say hello
 Got an idea, a messy system, or a tiny spark worth exploring?  
 **Let’s build something useful together.**
