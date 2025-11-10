@@ -65,7 +65,7 @@ We don’t chase trends or perfection. We chase **learning**—the kind you get 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 ![Tailwind\_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Blade](https://img.shields.io/badge/Blade-?style=for-the-badge&logo=laravel&logoColor=white&color=FF2D20)
+![Blade Laravel](https://img.shields.io/badge/Blade%20|%20Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 #### 🗄️ Data
 
