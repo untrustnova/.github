@@ -24,9 +24,9 @@ We don’t chase trends or perfection. We chase **learning**—the kind you get 
 
 ### 👥 Founding Team (The Pillars)
 
-* **Witthayanuraks** — Head of Untrustnova (PM + HR), Frontend Dev, DevOps.
-* **Ernestoyoofi** — Fullstack Dev (JavaScript + Golang), Networking (MikroTik), SysAdmin.
-* **AndraZero121** — Backend Dev (PHP + JavaScript + Golang), DevOps.
+* [**Witthayanuraks**](https://github.com/Witthayanuraks) — Head of Untrustnova (PM + HR), Frontend Dev, DevOps.
+* [**Ernestoyoofi**](https://github.com/ernestoyoofi) — Fullstack Dev (JavaScript + Golang), Networking (MikroTik), SysAdmin.
+* [**AndraZero121**](https://github.com/AndraZero121) — Backend Dev (PHP + JavaScript + Golang), DevOps.
 
 ---
 
