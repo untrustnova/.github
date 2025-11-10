@@ -106,7 +106,7 @@ We don’t chase trends or perfection. We chase **learning**—the kind you get 
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge\&logo=fedora\&logoColor=white)
 ![Arch\_Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge\&logo=arch-linux\&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge\&logo=nixos\&logoColor=white)
-![ElysiaOS](https://img.shields.io/badge/ElysiaOS-0EA5E9?style=for-the-badge)
+![ElysiaOS](https://img.shields.io/badge/🌸%20ElysiaOS-EC4899?style=for-the-badge)
 
 > 🧩 *We pick tools that fit the problem, not the trend.*
 
