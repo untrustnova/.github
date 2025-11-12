@@ -48,6 +48,10 @@ We don’t chase trends or perfection. We chase **learning**—the kind you get 
 
 ---
 
+Berikut versi markdown stack kamu yang sudah **ditambahkan Proxmox, Grafana, Tailscale, dan Red Hat** 👇
+
+---
+
 ### 🧰 Our Stack
 
 #### 🧠 Backend
@@ -65,7 +69,7 @@ We don’t chase trends or perfection. We chase **learning**—the kind you get 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 ![Tailwind\_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Blade Laravel](https://img.shields.io/badge/Blade%20|%20Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Blade Laravel](https://img.shields.io/badge/Blade%20|%20Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
 
 #### 🗄️ Data
 
@@ -85,6 +89,9 @@ We don’t chase trends or perfection. We chase **learning**—the kind you get 
 ![GitHub\_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Ngrok](https://img.shields.io/badge/Ngrok-1F1F1F?style=for-the-badge\&logo=ngrok\&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge\&logo=proxmox\&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-262626?style=for-the-badge\&logo=tailscale\&logoColor=white)
 ![VS\_Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 #### 🔐 Auth, Docs & Quality
@@ -96,6 +103,7 @@ We don’t chase trends or perfection. We chase **learning**—the kind you get 
 #### 🛰️ Networking
 
 ![MikroTik](https://img.shields.io/badge/MikroTik-2B2D42?style=for-the-badge\&logo=mikrotik\&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-262626?style=for-the-badge\&logo=tailscale\&logoColor=white)
 
 #### 💻 OS & Platforms
 
@@ -105,6 +113,7 @@ We don’t chase trends or perfection. We chase **learning**—the kind you get 
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge\&logo=debian\&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge\&logo=fedora\&logoColor=white)
 ![Arch\_Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge\&logo=arch-linux\&logoColor=white)
+![Red\_Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge\&logo=red-hat\&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge\&logo=nixos\&logoColor=white)
 ![ElysiaOS](https://img.shields.io/badge/🌸%20ElysiaOS-EC4899?style=for-the-badge)
 
