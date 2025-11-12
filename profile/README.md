@@ -48,10 +48,6 @@ We don’t chase trends or perfection. We chase **learning**—the kind you get 
 
 ---
 
-Berikut versi markdown stack kamu yang sudah **ditambahkan Proxmox, Grafana, Tailscale, dan Red Hat** 👇
-
----
-
 ### 🧰 Our Stack
 
 #### 🧠 Backend
@@ -116,6 +112,18 @@ Berikut versi markdown stack kamu yang sudah **ditambahkan Proxmox, Grafana, Tai
 ![Red\_Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge\&logo=red-hat\&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge\&logo=nixos\&logoColor=white)
 ![ElysiaOS](https://img.shields.io/badge/🌸%20ElysiaOS-EC4899?style=for-the-badge)
+
+#### 🎨 Design, Creative & Productivity
+
+![Adobe\_Premiere\_Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge\&logo=adobe-premiere-pro\&logoColor=white)
+![Adobe\_Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge\&logo=adobe-photoshop\&logoColor=white)
+![Adobe\_After\_Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge\&logo=adobe-after-effects\&logoColor=white)
+![Adobe\_Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge\&logo=adobe-illustrator\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion\&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge\&logo=blender\&logoColor=white)
+
+---
 
 > 🧩 *We pick tools that fit the problem, not the trend.*
 
