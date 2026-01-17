@@ -11,6 +11,8 @@ We don’t chase trends or perfection. We chase **learning**—the kind you get 
 > **Studio tagline**: *Where unlikely ideas earn trust—then sometimes explode into masterpieces.*
 > **Original motto (we keep it close):** **“Where Ideas What We Didn't Trust To Success, And Then Suddenly Explode Into Masterpieces.”**
 
+And we're the one who's making Nova.js into reality.
+
 ---
 
 ### 🔭 Quick Snapshot
