@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="./../icon.webp" width="120" alt="Untrustnova Logo" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="./../icon.webp" width="120" alt="Novarsity Logo" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   
-  <h1>Untrustnova</h1>
+  <h1>Novarsity</h1>
   
   <p><strong>Where Design × Engineering × Curiosity Meet.</strong></p>
 
@@ -25,13 +25,13 @@
 
 ### 👋 Hello, Traveler! Nova here!
 
-> *"Selamat datang di Untrustnova! Aku **Nova Hoshizora**, serigala mistik yang bakal nemenin kalian keliling di sini. Kami bukan sekadar nulis kode, kami merakit ide-ide kecil yang kadang 'meledak' jadi sesuatu yang luar biasa. Stay curious, ya! :3"*
+> *"Selamat datang di Novarsity! Aku **Nova Hoshizora**, serigala mistik yang bakal nemenin kalian keliling di sini. Kami bukan sekadar nulis kode, kami merakit ide-ide kecil yang kadang 'meledak' jadi sesuatu yang luar biasa. Stay curious, ya! :3"*
 
 ---
 
 ### 🚀 Who We Are
 
-**Untrustnova** is an independent collective turning "what ifs" into reliable, human-centered digital products. We don't chase trends; we chase **learning**. 
+**Novarsity** is an independent digital services collective turning "what ifs" into reliable, human-centered digital products — spanning web & app development, networking, content creation, graphic design, and 3D animation. We don't chase trends; we chase **learning**.
 
 Our philosophy is simple: **Ship small, break things, fix them, and learn.**
 
@@ -45,7 +45,7 @@ Our philosophy is simple: **Ship small, break things, fix them, and learn.**
 | :--- | :--- | :--- |
 | **Head / Frontend** | [**@Witthayanuraks**](https://github.com/Witthayanuraks) | PM, HR, DevOps, The Visionary |
 | **Fullstack / Net** | [**@Ernestoyoofi**](https://github.com/ernestoyoofi) | JS, Golang, SysAdmin, The Connector |
-| **Backend / DevOps** | [**@AndraZero121**](https://github.com/AndraZero121) | PHP, Golang, The Architect |
+| **Founder & CTO / Backend** | [**@AndraZero121**](https://github.com/AndraZero121) | PHP (Laravel), Golang, The Architect |
 
 ---
 
@@ -153,5 +153,5 @@ Kami menggunakan alat yang tepat untuk masalah yang tepat. *No bloat, just power
   <p>Got a messy system or a tiny spark worth exploring?</p>
   <h3>Let’s build something useful together.</h3>
   <br>
-  <sub><i>&copy; Untrustnova. "Ideas that explode into masterpieces."</i></sub>
+  <sub><i>2026 &copy; Novarsity. "Ideas that explode into masterpieces."</i></sub>
 </div>
