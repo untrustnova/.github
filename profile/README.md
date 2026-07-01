@@ -63,8 +63,8 @@ Our philosophy is simple: **Ship small, break things, fix them, and learn.**
 | Founder | Title | Callsign | Focus | Personal Stack |
 | :--- | :--- | :--- | :--- | :--- |
 | [**@Witthayanuraks**](https://github.com/Witthayanuraks) | Founder & CEO — Head of Product & Frontend | *The Visionary* | Product Vision, HR, DevOps | React · Next.js · Figma · Notion |
-| [**@Ernestoyoofi**](https://github.com/ernestoyoofi) | Founder & COO — Fullstack & Network Lead | *The Connector* | Systems & Network Administration | Node.js · Golang · MikroTik · Tailscale |
-| [**@AndraZero121**](https://github.com/AndraZero121) | Founder & CTO — Backend & Architecture Lead | *The Architect* | Backend Systems, API Design | PHP (Laravel) · Golang |
+| [**@Ernestoyoofi**](https://github.com/ernestoyoofi) | Founder & CTO — Fullstack & Network Lead | *The Connector* | Systems & Network Administration | Node.js · Golang · MikroTik · Tailscale |
+| [**@AndraZero121**](https://github.com/AndraZero121) | Founder & COO — Backend & Architecture Lead | *The Architect* | Backend Systems, API Design | PHP (Laravel) · Golang |
 
 ---
 
