@@ -1,9 +1,11 @@
 <div align="center">
   <img src="./../icon.webp" width="120" alt="Novarsity Logo" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  
+
   <h1>Novarsity</h1>
-  
+
   <p><strong>Where Design × Engineering × Curiosity Meet.</strong></p>
+
+  <p>An independent digital collective building websites, applications, networks, and creative content — for anyone chasing a good idea.</p>
 
   <p>
     <a href="https://saweria.co/untrustnova">
@@ -23,9 +25,9 @@
 
 ---
 
-### 👋 Hello, Traveler! Nova here!
+### 👋 Hello, Traveler! Nova Here!
 
-> *"Selamat datang di Novarsity! Aku **Nova Hoshizora**, serigala mistik yang bakal nemenin kalian keliling di sini. Kami bukan sekadar nulis kode, kami merakit ide-ide kecil yang kadang 'meledak' jadi sesuatu yang luar biasa. Stay curious, ya! :3"*
+> *"Welcome to Novarsity! I'm **Nova Hoshizora**, the mystic wolf who'll be your guide around here. We don't just write code — we piece together little ideas that sometimes 'explode' into something amazing. Stay curious, alright? :3"*
 
 ---
 
@@ -35,17 +37,34 @@
 
 Our philosophy is simple: **Ship small, break things, fix them, and learn.**
 
-> **The Vibe:** *"Where unlikely ideas earn trust—then sometimes explode into masterpieces."*
+> **The Vibe:** *"Where unlikely ideas earn trust — then sometimes explode into masterpieces."*
 
 ---
 
-### 👥 The Pillars (Founding Team)
+### 🎭 Our Culture
 
-| Role | Member | Focus Area |
-| :--- | :--- | :--- |
-| **Head / Frontend** | [**@Witthayanuraks**](https://github.com/Witthayanuraks) | PM, HR, DevOps, The Visionary |
-| **Fullstack / Net** | [**@Ernestoyoofi**](https://github.com/ernestoyoofi) | JS, Golang, SysAdmin, The Connector |
-| **Founder & CTO / Backend** | [**@AndraZero121**](https://github.com/AndraZero121) | PHP (Laravel), Golang, The Architect |
+| Vibe | What It Means |
+| :--- | :--- |
+| 🕊️ **Free** | No rigid hierarchy — good ideas can come from anyone, anytime. |
+| 🤝 **Friendly** | Approachable by default. No gatekeeping, no ego, no dumb questions. |
+| 😌 **Chill** | Deadlines exist, but burnout doesn't. We pace ourselves and breathe. |
+| 🔒 **Serious (Lock In)** | When it's game time, we lock in — full focus, zero excuses. |
+
+---
+
+### 👥 The Founding Team
+
+<p align="center">
+  <a href="https://github.com/Witthayanuraks"><img src="https://github.com/Witthayanuraks.png" width="80" style="border-radius:50%" alt="Witthayanuraks" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ernestoyoofi"><img src="https://github.com/ernestoyoofi.png" width="80" style="border-radius:50%" alt="Ernestoyoofi" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/AndraZero121"><img src="https://github.com/AndraZero121.png" width="80" style="border-radius:50%" alt="AndraZero121" /></a>
+</p>
+
+| Founder | Title | Callsign | Focus | Personal Stack |
+| :--- | :--- | :--- | :--- | :--- |
+| [**@Witthayanuraks**](https://github.com/Witthayanuraks) | Founder & CEO — Head of Product & Frontend | *The Visionary* | Product Vision, HR, DevOps | React · Next.js · Figma · Notion |
+| [**@Ernestoyoofi**](https://github.com/ernestoyoofi) | Founder & COO — Fullstack & Network Lead | *The Connector* | Systems & Network Administration | Node.js · Golang · MikroTik · Tailscale |
+| [**@AndraZero121**](https://github.com/AndraZero121) | Founder & CTO — Backend & Architecture Lead | *The Architect* | Backend Systems, API Design | PHP (Laravel) · Golang |
 
 ---
 
@@ -59,7 +78,7 @@ Our philosophy is simple: **Ship small, break things, fix them, and learn.**
 
 ### 🛠️ The Arsenal (Tech Stack)
 
-Kami menggunakan alat yang tepat untuk masalah yang tepat. *No bloat, just power.*
+We use the right tool for the right problem. *No bloat, just power.*
 
 #### 🧮 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
@@ -92,12 +111,17 @@ Kami menggunakan alat yang tepat untuk masalah yang tepat. *No bloat, just power
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+#### ⚡ Realtime & Messaging
+![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
 
 #### 🚀 DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
@@ -139,19 +163,53 @@ Kami menggunakan alat yang tepat untuk masalah yang tepat. *No bloat, just power
 
 ---
 
-### 📡 Status
+### 📊 GitHub Status
 
-| System | Status |
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2Funtrustnova&label=Public%20Repos&query=%24.public_repos&color=2088FF&style=for-the-badge&logo=github&logoColor=white" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2Funtrustnova&label=Public%20Gists&query=%24.public_gists&color=2088FF&style=for-the-badge&logo=github&logoColor=white" alt="Public Gists" />
+  <img src="https://img.shields.io/github/followers/untrustnova?style=for-the-badge&logo=github&label=Followers&color=2088FF" alt="Followers" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=untrustnova&theme=tokyonight&hide_border=true&layout=compact" alt="Novarsity Top Languages" />
+</p>
+
+---
+
+### 🎮 Vibe Check
+
+| Metric | Reading |
 | :--- | :--- |
 | **Curiosity** | `100%` |
 | **Caffeine** | `Critical` |
+| **Chill Mode** | `Always On` |
+| **Lock-In Mode** | `Activated on Deadline` |
 | **Deployments** | `Friday-Free` |
 
 ---
 
 <div align="center">
-  <p>Got a messy system or a tiny spark worth exploring?</p>
-  <h3>Let’s build something useful together.</h3>
-  <br>
-  <sub><i>2026 &copy; Novarsity. "Ideas that explode into masterpieces."</i></sub>
+  <h3>💡 Got a messy system or a tiny spark worth exploring?</h3>
+  <p>Let's build something useful together.</p>
+
+  <p>
+    <a href="https://saweria.co/untrustnova">
+      <img src="https://img.shields.io/badge/Saweria-Donate-FF7B00?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Saweria" />
+    </a>
+    <a href="https://discord.gg/untrustnova">
+      <img src="https://img.shields.io/badge/Discord-Join_Us-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+    <a href="https://www.linkedin.com/company/untrustnova">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://instagram.com/untrustnova">
+      <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </p>
+
+  <sub>
+    Made with 🐺 and way too much coffee by the <strong>Novarsity</strong> team.<br/>
+    © 2026 Novarsity — <i>"Ideas that explode into masterpieces."</i>
+  </sub>
 </div>
