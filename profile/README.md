@@ -55,7 +55,7 @@ Our philosophy is simple: **Ship small, break things, fix them, and learn.**
 ### 👥 The Founding Team
 
 <p align="center">
-  <a href="https://github.com/Witthayanuraks"><img src="https://github.com/rhazelina.png" width="80" style="border-radius:50%" alt="Rhazelina" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/rhazelina"><img src="https://github.com/rhazelina.png" width="80" style="border-radius:50%" alt="Rhazelina" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ernestoyoofi"><img src="https://github.com/ernestoyoofi.png" width="80" style="border-radius:50%" alt="Ernestoyoofi" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/AndraZero121"><img src="https://github.com/AndraZero121.png" width="80" style="border-radius:50%" alt="AndraZero121" /></a>
 </p>
