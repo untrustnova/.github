@@ -140,6 +140,7 @@ We use the right tool for the right problem. *No bloat, just power.*
 ![Paperlog](https://img.shields.io/badge/Paperlog-4A4A4A?style=for-the-badge&logo=logstash&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-2B2D42?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-262626?style=for-the-badge&logo=tailscale&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
 
 #### 💻 OS & Environments
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -158,6 +159,7 @@ We use the right tool for the right problem. *No bloat, just power.*
 ![Adobe_After_Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 ![Adobe_Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Affinity](https://img.shields.io/badge/Affinity_Suite-1B1B1B?style=for-the-badge&logo=affinitydesigner&logoColor=2AC0F2)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
@@ -172,7 +174,7 @@ We use the right tool for the right problem. *No bloat, just power.*
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=untrustnova&theme=tokyonight&hide_border=true&layout=compact" alt="Novarsity Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=untrustnova&theme=tokyonight" alt="Novarsity Top Languages" />
 </p>
 
 ---
